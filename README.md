@@ -17,21 +17,6 @@ Phù hợp để:
 
 ---
 
-## ☕ Ủng hộ / Donate
-
-Nếu bạn thấy project này hữu ích, bạn có thể ủng hộ mình một ly cà phê ☕ để mình có thêm động lực phát triển 🚀
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Panbap/Donate/refs/heads/main/bank.png" alt="Donate QR" width="200"/>
-</p>
-
-<p align="center">
-  💖 Quét mã QR để ủng hộ tác giả 💖  
-  <br/>
-  Chúc bạn một ngày thật tuyệt vời 🌸
-</p>
-
----
 ## 🎇 Tính năng
 
 - 💖 Hiệu ứng animation mượt mà  
@@ -60,6 +45,21 @@ WomensDay/
 
 ---
 
+## ☕ Ủng hộ / Donate
+
+Nếu bạn thấy project này hữu ích, bạn có thể ủng hộ mình một ly cà phê ☕ để mình có thêm động lực phát triển 🚀
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Panbap/Donate/refs/heads/main/bank.png" alt="Donate QR" width="200"/>
+</p>
+
+<p align="center">
+  💖 Quét mã QR để ủng hộ tác giả 💖  
+  <br/>
+  Chúc bạn một ngày thật tuyệt vời 🌸
+</p>
+
+---
 ## ⚙️ Cách sử dụng
 
 ```bash
